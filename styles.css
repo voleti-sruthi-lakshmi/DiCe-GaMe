@@ -1,0 +1,23 @@
+h2{
+  font-family: 'Indie Flower', cursive;
+  text-shadow: 5px #232931;
+  color:#4ECCA3;
+  font-size: 30px;
+}
+h1{
+  font-size: 8rem;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px #232931;
+  color:#4ECCA3;
+}
+body{
+  text-align: center;
+  background-color: #393E46;
+}
+.col-lg-6{
+  display: inline-block;
+  padding-left:25px;
+}
+img{
+  width:80%;
+}
